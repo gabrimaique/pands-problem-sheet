@@ -1,8 +1,11 @@
 ### Weekly Task 02 bmy.py
 
+### Task Description:
+
 #### Write a program that calculates somebody's body mass index (BMI)
 
-#### This program calculates a person's Body Mass Index. The user will first be asked to enter their weight in kilograms, after they have to insert their height in centimetres. We use the Float method to convert string to float. The formula to calculate the BMI is BMI = kg/m2 . The output is printed. 
+#### Explaining
+#### This program calculates a person's Body Mass Index. The user will first be asked to enter their weight in kilograms, after they have to insert their height in centmetres. We use the Float method to convert string to float. The formula to calculate the BMI is BMI = kg/m2 . The output is printed. 
 
 #### Reference
 ##### https://www.diabetes.ca/managing-my-diabetes/tools---resources/body-mass-index-(bmi)-calculato
