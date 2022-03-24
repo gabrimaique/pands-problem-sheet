@@ -2,11 +2,6 @@
 number = int(input("please enter a positive whole number:"))
 # list is used to store multiple items in a single variable
 mylist = []
-# users input is appended to the list
-mylist.append(number)
-# if statement to check if the user has input a positive number
-if number <= 0:
-    print("no negativity or zeros allowed here")
 # while loop checks if the number is not equal to 1
 while number != 1:
     # the if statement verify if the number is odd or even
