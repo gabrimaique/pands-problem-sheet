@@ -1,9 +1,14 @@
 ### Weekly Task 02 bmy.py
-#### This program calculates a person's Body Mass Index. The user will first be asked to enter their weight in kilograms, after they have to insert their height in centimetres. The output is their weight divided by their height in metres squared.
+
+#### Write a program that calculates somebody's body mass index (BMI)
+
+#### This program calculates a person's Body Mass Index. The user will first be asked to enter their weight in kilograms, after they have to insert their height in centimetres. We use the Float method to convert string to float. The formula to calculate the BMI is BMI = kg/m2 . The output is printed. 
 
 #### Reference
 ##### https://www.diabetes.ca/managing-my-diabetes/tools---resources/body-mass-index-(bmi)-calculato
 ##### https://stackoverflow.com/questions/20405610/bmi-calculator-in-python/20405792
+##### https://www.w3schools.com/python/ref_func_float.asp
+___
 
 ### Weekly Task 03 secondstring.py
 #### This program returns a reversed version of the string with every second letter removed. The user is requested to input a string then Python slice syntax is used to everse order and select every second letter.
@@ -21,5 +26,8 @@
 ##### https://www.w3schools.com/python/ref_list_append.asp
 ##### https://www.w3schools.com/python/python_conditions.asp
 ##### https://www.w3schools.com/python/python_while_loops.asp
+
+### Weekly Task 05 weekday.py
+#### This program output whether the current day is a weekday or not. 
 
 
