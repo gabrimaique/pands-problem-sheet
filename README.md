@@ -1,6 +1,6 @@
 ### Weekly Task 02 bmy.py
 
-### Task Description:
+#### Task Description:
 
 #### Write a program that calculates somebody's body mass index (BMI)
 
