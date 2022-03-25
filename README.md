@@ -33,7 +33,7 @@ ___
 #### Write a program that asks the user to input any positive integer and outputs the successive values of the following calculation. At each step calculate the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one.
 
 #### Explaining: 
-#### The user is asked to input a positive integer. Then a list [] is used to store multiple items in a single variable. The script uses a while statement, that execute the code as long as the while statement's condition is true, to check if the number is not 1.  We use the if statement to verify if the number is odd or even. If its greater than 1 the output will be added to the list (mylist.append(number)) and will be used as the input for the next run of the code.
+#### The user is asked to input a positive integer. Then a list [] is used to store multiple items in a single variable. The script uses a while statement, that execute the code as long as the while statement's condition is true, to check if the number is not 1.  The if statement will run as long as the statement is true, if the number is even (%2==0) the number is diveded by 2 than the output will be added to the list (mylist.append(number)) and will be used as the input for the next run of the code. If the statement is not true the else statement will take the number and multiple by 3 and add 1 than the output will be added to the list. This is repeated until the output is equal to 1.
 
 
 
@@ -42,6 +42,7 @@ ___
 ##### https://www.w3schools.com/python/ref_list_append.asp
 ##### https://www.w3schools.com/python/python_conditions.asp
 ##### https://www.w3schools.com/python/python_while_loops.asp
+___
 
 ### Weekly Task 05 weekday.py
 #### This program output whether the current day is a weekday or not. 
