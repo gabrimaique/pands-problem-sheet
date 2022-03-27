@@ -19,7 +19,7 @@ ___
 #### Write a program that asks a user to input a string and outputs every second letter in reverse order.
 
 #### Explaining:
-#### First we ask the user to input a sentence to creat a string. Each character in a string has a corresponding numerical value. To reverse a string in python we have to use a slice function. In order to move two steps backward we used the slice statement [::-2] that shows the full string every second value backwards and prints out these characters. The start and end point are left blank to include the entire string.
+#### First we ask the user to input a sentence to creat a string, each character in a string has a corresponding numerical value. To reverse a string in python we have to use a slice function. In order to move two steps backward we used the slice statement [::-2] that shows the full string every second value backwards and prints out these characters. The start and end point are left blank to include the entire string.
 
 #### Reference
 ##### https://www.educative.io/courses/learn-python-3-from-scratch/mE73nLqKGA3
@@ -45,6 +45,12 @@ ___
 ___
 
 ### Weekly Task 05 weekday.py
-#### This program output whether the current day is a weekday or not. 
+
+#### Task Description:
+#### Write a program that outputs whether or not today ia a weekday
+
+#### Explaining:
+#### To start we import a module named datetime to work with dates. The function datetime.now() turns a datetime object of today. Then we use strftime method for formatiing date objects into readable string.This is set as an integer an passed to the if, elif and else statement. If today is saturday, else if its sunday it will print "It is the weekend, yay!", otherwise it will print "Yes, unfortunately today is a weekday". 
+
 
 
