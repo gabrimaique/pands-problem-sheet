@@ -75,7 +75,7 @@ ___
 #### Write a program called plottask.py that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
 
 #### Explaning:
-#### 
+#### First We have to import the module sys in order to read the file as an argument. Then we use the list sys.argv[1] which contains the command-line arguments passed to the script, in order for mobydick.txt to be read in it had to be written on the terminal command once i called the function. After we use def function that counts the number of times the letter "e" appears, we defined this function with two variables, filename and letter.The filename is opened as f and the content is stored in a variable that check that the file will read in correctly, then it reads the whole file and count the chosen letter. Finally we call the function and display the letter count.
 
 
 
