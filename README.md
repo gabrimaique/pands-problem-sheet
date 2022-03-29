@@ -3,13 +3,13 @@
 ### Task Description:
 Write a program that calculates somebody's body mass index (BMI)
 
-## Explaining:
+### Explaining:
 This program calculates a person's Body Mass Index. The user will first be asked to enter their weight in kilograms, after they have to insert their height in centmetres. We use the Float method to convert string to float. The formula to calculate the BMI is BMI = kg/m2 . Than the output is printed. 
 
-#### Reference:
-##### https://www.diabetes.ca/managing-my-diabetes/tools---resources/body-mass-index-(bmi)-calculato
-##### https://stackoverflow.com/questions/20405610/bmi-calculator-in-python/20405792
-##### https://www.w3schools.com/python/ref_func_float.asp
+### Reference:
+https://www.diabetes.ca/managing-my-diabetes/tools---resources/body-mass-index-(bmi)-calculato
+https://stackoverflow.com/questions/20405610/bmi-calculator-in-python/20405792
+https://www.w3schools.com/python/ref_func_float.asp
 ___
 
 ### Weekly Task 03 secondstring.py
