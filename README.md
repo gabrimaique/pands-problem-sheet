@@ -1,11 +1,10 @@
-### Weekly Task 02 bmy.py
+## Weekly Task 02 bmy.py
 
-#### Task Description:
+### Task Description:
+Write a program that calculates somebody's body mass index (BMI)
 
-#### Write a program that calculates somebody's body mass index (BMI)
-
-#### Explaining:
-#### This program calculates a person's Body Mass Index. The user will first be asked to enter their weight in kilograms, after they have to insert their height in centmetres. We use the Float method to convert string to float. The formula to calculate the BMI is BMI = kg/m2 . Than the output is printed. 
+## Explaining:
+This program calculates a person's Body Mass Index. The user will first be asked to enter their weight in kilograms, after they have to insert their height in centmetres. We use the Float method to convert string to float. The formula to calculate the BMI is BMI = kg/m2 . Than the output is printed. 
 
 #### Reference:
 ##### https://www.diabetes.ca/managing-my-diabetes/tools---resources/body-mass-index-(bmi)-calculato
@@ -69,6 +68,14 @@ ___
 
 #### Explaining:
 #### First We have to import the module sys in order to read the file as an argument. Then we use the list sys.argv[1] which contains the command-line arguments passed to the script, in order for mobydick.txt to be read in it had to be written on the terminal command once i called the function. After we use def function that counts the number of times the letter "e" appears, we defined this function with two variables, filename and letter.The filename is opened as f and the content is stored in a variable that check that the file will read in correctly, then it reads the whole file and count the chosen letter. Finally we call the function and display the letter count.
+
+#### Reference: 
+#### https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
+#### https://www.pythonforbeginners.com/system/python-sys-argv
+#### https://www.w3schools.com/python/ref_string_count.asp
+#### https://www.w3schools.com/python/python_functions.asp
+#### https://www.gutenberg.org/files/2701/2701-h/2701-h.htm
+
 
 ___
 
