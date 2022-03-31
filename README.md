@@ -8,7 +8,9 @@ This program calculates a person's Body Mass Index. The user will first be asked
 
 ### Reference:
 https://www.diabetes.ca/managing-my-diabetes/tools---resources/body-mass-index-(bmi)-calculato
+
 https://stackoverflow.com/questions/20405610/bmi-calculator-in-python/20405792
+
 https://www.w3schools.com/python/ref_func_float.asp
 ___
 
@@ -22,7 +24,9 @@ First we ask the user to input a sentence to creat a string, each character in a
 
 ### Reference:
 https://www.educative.io/courses/learn-python-3-from-scratch/mE73nLqKGA3
+
 https://www.w3schools.com/python/python_strings_slicing.asp
+
 https://railsware.com/blog/python-for-machine-learning-indexing-and-slicing-for-lists-tuples-strings-and-other-sequential-types/#Slice_Notation
 ___
 
@@ -36,8 +40,11 @@ ___
 
 ### Reference:
 https://www.w3schools.com/python/python_lists.asp
+
 https://www.w3schools.com/python/ref_list_append.asp
+
 https://www.w3schools.com/python/python_conditions.asp
+
 https://www.w3schools.com/python/python_while_loops.asp
 ___
 
@@ -51,7 +58,9 @@ To start we import a module named datetime to work with dates. The function date
 
 ### Reference:
 https://www.w3schools.com/python/python_datetime.asp
+
 https://www.w3schools.com/python/gloss_python_elif.asp
+
 https://www.dataquest.io/blog/python-datetime-tutorial/
 ___
 
@@ -71,9 +80,13 @@ Write a program that reads in a text file and outputs the number of e's it conta
 
 ### Reference: 
 https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
+
 https://www.pythonforbeginners.com/system/python-sys-argv
+
 https://www.w3schools.com/python/ref_string_count.asp
+
 https://www.w3schools.com/python/python_functions.asp
+
 https://www.gutenberg.org/files/2701/2701-h/2701-h.htm
 
 
@@ -91,8 +104,11 @@ First we have to import Numpy(used to work with arrays) and Matlibplot(used for 
 
 ### Reference: 
 https://www.w3schools.com/python/matplotlib_markers.asp
+
 https://numpy.org/doc/stable/reference/generated/numpy.arange.html
+
 https://realpython.com/how-to-use-numpy-arange/
+
 https://www.activestate.com/resources/quick-reads/how-to-display-a-plot-in-python/
 
 
