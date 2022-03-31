@@ -87,7 +87,7 @@ Write a program called plottask.py that displays a plot of the functions f(x)=x,
 ### Explaning:
 First we have to import Numpy(used to work with arrays) and Matlibplot(used for visualizing the data on plots). To return spaced values within a given interval we used np.range to define the range for the x-axis. The y-axis will be defined by the function that were defined here:  f(x)=x, g(x)=x2 and h(x)=x3(plotted separately but on the same axis). Next plt.plt is used to format the functions that we want to show on the graph, within the brackets we defined the colour, the line marker type for the line and the label for the line.We then add the plot label, title and legend, wich displays labels. Finally we use the code plt.show() to show the graphic representation and how the plot looks like when we run the program.
 
-![plot] (C:\Users\tirol\OneDrive\Área de Trabalho\pands-problem-sheet\plottask.png)
+![ScreenShot] (plottask.png)
 
 ### Reference: 
 https://www.w3schools.com/python/matplotlib_markers.asp
