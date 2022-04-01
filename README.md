@@ -4,7 +4,7 @@
 Write a program that calculates somebody's body mass index (BMI)
 
 ### Explaining:
-This program calculates a person's Body Mass Index. The user will first be asked to enter their weight in kilograms, after they have to insert their height in centmetres. We use the Float method to convert string to float. The formula to calculate the BMI is BMI = kg/m2 . Than the output is printed. 
+The user will first be asked to enter their weight in kilograms, after they have to insert their height in centmetres. We use the Float method to convert string to float. The formula to calculate the BMI is BMI = kg/m2 . Than the output is printed. 
 
 ### Reference:
 https://www.diabetes.ca/managing-my-diabetes/tools---resources/body-mass-index-(bmi)-calculato
