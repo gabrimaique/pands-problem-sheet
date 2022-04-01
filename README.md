@@ -111,6 +111,8 @@ https://realpython.com/how-to-use-numpy-arange/
 
 https://www.activestate.com/resources/quick-reads/how-to-display-a-plot-in-python/
 
+https://www.codegrepper.com/code-examples/shell/how+to+put+images+in+readme.md
+
 
 
 
